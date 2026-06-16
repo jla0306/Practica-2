@@ -2,7 +2,7 @@
 **Autor/a:** Julio Lázaro Alcobendas i Gerard Rodríguez González
 **Data:** 03 de Març de 2026
 **Microcontrolador:** ESP32-S3-DevKitC-1
-**Repositori GitHub:** https://github.com/gedrar/Practica-1
+**Repositori GitHub:** [[https://github.com/gedrar/Practica-2]
 
 ---
 
