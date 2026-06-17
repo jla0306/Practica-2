@@ -1,7 +1,6 @@
 # Informe de Pràctica 2: Interrupcions
-**Autor/a:** Julio Lázaro Alcobendas i Gerard Rodríguez González
+**Autors:** Julio Lázaro Alcobendas i Gerard Rodríguez González
 **Data:** 03 de Març de 2026
-**Microcontrolador:** ESP32-S3-DevKitC-1
 **Repositori GitHub:** [[https://github.com/gedrar/Practica-2]](https://github.com/jla0306/Practica-2)
 
 ---
